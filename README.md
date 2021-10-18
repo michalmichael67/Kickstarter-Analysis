@@ -6,4 +6,5 @@ In this project, data analysis was done on kickstarter campaigns in order to unc
 ## Time Analysis
 * By month, May was the most successful month to launch a theater campaign. 
 ## Distribution Analysis
-
+* Across, Theater, Makerspaces, and Musical campaigns there was a clear difference between the successful and failed campaigns. The successful campains had a mean goal of 5,000 - 7,000 while the failed campaigns had a goal of 10,000-27,000. This seems to suggest that the campaigns with lower goals were utimately more successful. 
+* Across all 3 sectors, the standard deviations between the goals was smaller. This would suggest that the successful campaigns knew that their target goal would be more successful within a certain range rather than the failed campaigns which seemed to set a goal regardless of that research. 
