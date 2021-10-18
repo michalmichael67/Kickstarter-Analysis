@@ -1,13 +1,3 @@
-# An Analysis of Kickstarter Campaigns
-In this project, data analysis was done on kickstarter campaigns in order to uncover trends. There was categorical analysis, time analysis, and distribution analysis done.
-## Categorical Analysis
-* An analysis of the Theater category was done - there was a total of 912 campains with 57.57% successful, 38.27% failed, 2.85% canceled and 1.31% currently live. 
-* Within Theater, an analysis of Plays was done - there was a total of 671 campains with 61.40% successful, 37.26% failed, 1.34 live and no campaigns canceled. 
-## Time Analysis
-* By month, May was the most successful month to launch a theater campaign. 
-## Distribution Analysis
-* Across, Theater, Makerspaces, and Musical campaigns there was a clear difference between the successful and failed campaigns. The successful campains had a mean goal of 5,000 - 7,000 while the failed campaigns had a goal of 10,000-27,000. This seems to suggest that the campaigns with lower goals were utimately more successful. 
-* Across all 3 sectors, the standard deviations between the goals was smaller. This would suggest that the successful campaigns knew that their target goal would be more successful within a certain range rather than the failed campaigns which seemed to set a goal regardless of that research. 
 # Kickstarting with Excel
 
 ## Overview of Project
@@ -23,19 +13,19 @@ The analysis at this phase of the project was broken down into 2 parts - Launch 
 
 ### Analysis of Outcomes Based on Launch Date
 In order to conduct analysis based on Launch Date, a pivot table from the kickstarter analysis data was created.
-![Launch_Date_pivot](/Users/michalmichael/Documents/DA BootCamp/Excel/Module 1/Kickstarter Challenge/Launch_Date_Pivot.png) 
+![Launch_Date_pivot.png](/Users/michalmichael/Documents/DA BootCamp/Excel/Module 1/Kickstarter Challenge/Launch_Date_Pivot.png) 
 In this table, we began to understand the general distribution of successful (839), failed (493), and canceled (37) theater campaigns. Moreover, we can see that the most populat months to launch a theater campaign were in the summer (May, June, July, August).
 
 We then plotted the pivot table and created a line chart to get a better view of the data. In the below graph, it is clear that the most successful theater campaigns were launched in May and that October had an almost 1-1 ratio of successful-failed campaigns. Additionally, the number of canceled campaigns was low regardless of the month.
-![Theater_Outcomes_vs_Launch](/Users/michalmichael/Documents/DA BootCamp/Excel/Module 1/Kickstarter Challenge/Resources/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch.png](/Users/michalmichael/Documents/DA BootCamp/Excel/Module 1/Kickstarter Challenge/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 In order to conduct analysis based on fundraising Goals, a chart counting the success / failure / cancellation of the theater campaigns was created. Additionally, we calculated the percent of successful / failed / canceled campaigns to better understand the chance of success based on the dollar range of the campaign goal.
-![Fundraising_Goal_Chart](/Users/michalmichael/Documents/DA BootCamp/Excel/Module 1/Kickstarter Challenge/Fundraising_Goal_Chart.png) 
+![Fundraising_Goal_Chart.png](/Users/michalmichael/Documents/DA BootCamp/Excel/Module 1/Kickstarter Challenge/Fundraising_Goal_Chart.png) 
 By looking at the percentage of successful campaigns, it is clear that campaigns under 5,000 are at least 70% likely to suceed.
 
 Siimilarly to the launch date protocol, we then plotted the table and created a line chart to get a better view of the data. In the below chart, we can see that there are two ranges for success and two ranges for failure. It seems as though campaignes with goals under 5,000 or from 35,000-45,000 succeed at a rate of 66% and above. It also seems as though campaigns with a goal above 50,000 and between 25,000-35,000 are more likely to fail at a rate of at least 70% and above. 
-![Outcomes_vs_Goals](/Users/michalmichael/Documents/DA BootCamp/Excel/Module 1/Kickstarter Challenge/Resources/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals.png](/Users/michalmichael/Documents/DA BootCamp/Excel/Module 1/Kickstarter Challenge/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 One challenge that I encountered was structuing the "Countif" statements corrects in the analysis based on goals section. I wasnted to structure the formula so I could drag it across the "Number Successful", "Number Failed", and "Number Canceled" columns as well as down all of the goal ranges while changing as little as possible. With a few tweaks I was able to achieve this goal by using this format: 
