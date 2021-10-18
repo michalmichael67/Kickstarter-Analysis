@@ -46,19 +46,19 @@ This allowed me to drag the formula while only changing 2 items:
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-- 
+
   1. The most successful and popular months to launch a campaign are the summer months - May, June, July - but the most successful and popular month to launch a campaign is May with a success ratio of 66.87% and a total number of 166 campaigns. 
   2. The least successful and popular month to launch a campaign is december. There is only a 49.3% of success and there were only 75 campaigns launch. At 75 launch campaigns, it has 13 fewer launched campaigns than the next closest month of November (88 launches) and it has a success rate of 9% less than the next closest month of January (success rate of 58.33%).
 
 - What can you conclude about the Outcomes based on Goals?
-- 
+
 The most successful campaigns has a funraigsing goal of uner $5,000 or between 35,000-45,000. This seems to suggest that there are 2 distict markets that campaigns can target based on the needs of the play. The other goals are either more likely to fail or are not difinitively likely to succeed.
 
 - What are some limitations of this dataset?
-- 
+
 ????
 
 - What are some other possible tables and/or graphs that we could create?
-- 
+
   1. A pivot table for the Average donation for the subcategories under theater. This would show that the average donations were for successful, canceled, live, and failed campaigns. This would give similar data to the analysis based on fundraising goal, but it could also allow us to understand if the higher campaigns have many people giving a low number, or if there are truly 2 distinct categories of donations. (If the average successful campaign donation is 15,000 - we may be able to assume that there are at least 2 categories of donations becuase it is well above the overall successful campaign goal of under $5,000.)
   2. We could do a location analysis and create a bar chart for to better understand if a campaign would suceed based on location.
