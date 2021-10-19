@@ -14,7 +14,7 @@ The analysis at this phase of the project was broken down into 2 parts - Launch 
 ### Analysis of Outcomes Based on Launch Date
 In order to conduct analysis based on Launch Date, a pivot table from the kickstarter analysis data was created.
 
-![Launch_Date_pivot.png](/Users/michalmichael/Documents/DA BootCamp/Excel/Module 1/Kickstarter Challenge/Launch_Date_Pivot.png) 
+![Launch_Date_pivot.png](ExplanatoryCharts/Launch_Date_Pivot.png) 
 
 In this table, we began to understand the general distribution of successful (839), failed (493), and canceled (37) theater campaigns. Moreover, we can see that the most populat months to launch a theater campaign were in the summer (May, June, July, August).
 
