@@ -20,7 +20,7 @@ In this table, we began to understand the general distribution of successful (83
 
 We then plotted the pivot table and created a line chart to get a better view of the data. In the below graph, it is clear that the most successful theater campaigns were launched in May and that October had an almost 1-1 ratio of successful-failed campaigns. Additionally, the number of canceled campaigns was low regardless of the month.
 
-![Theater_Outcomes_vs_Launch.png](/Users/michalmichael/Documents/DA BootCamp/Excel/Module 1/Kickstarter Challenge/Resources/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch.png](Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 In order to conduct analysis based on fundraising Goals, a chart counting the success / failure / cancellation of the theater campaigns was created. Additionally, we calculated the percent of successful / failed / canceled campaigns to better understand the chance of success based on the dollar range of the campaign goal.
