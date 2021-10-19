@@ -56,9 +56,12 @@ The most successful campaigns has a funraigsing goal of uner $5,000 or between 3
 
 - What are some limitations of this dataset?
 
-????
+Although large, this dataset ma not be representative of all the kickstarters that were done. Furthermore, we were given the information that Louise raised $12,000 for her play which according to our data is an unlikely goal to succeed. This may show that although we have a lot of data, we do not have enough information about kickstarter campaigns for plays. 
+
+Another limitation could be the direction of causation for the success. We may look at the campaigns that were launched during the summer months and conclude that summer campaigns are more likely to succeed but in fact, it could be that the campaign goals are lower in the summer and that is the reason of success (and vis versa). We can come awat from this dataset with a lot of observations but it is difficult to come away with concrete causation conclusions. 
 
 - What are some other possible tables and/or graphs that we could create?
 
   1. A pivot table for the Average donation for the subcategories under theater. This would show that the average donations were for successful, canceled, live, and failed campaigns. This would give similar data to the analysis based on fundraising goal, but it could also allow us to understand if the higher campaigns have many people giving a low number, or if there are truly 2 distinct categories of donations. (If the average successful campaign donation is 15,000 - we may be able to assume that there are at least 2 categories of donations becuase it is well above the overall successful campaign goal of under $5,000.)
-  2. We could do a location analysis and create a bar chart for to better understand if a campaign would suceed based on location.
+  2. We could do a location analysis and create a bar chart for to better understand if a campaign would suceed based on location. In the below chart I focused on the 4 most popular countries to better understand the proportion of successful theater campaigns.
+![OutcomesBasedOnCountry.png](ExplanatoryCharts/OutcomesBasedOnCountry.png)
