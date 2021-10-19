@@ -20,18 +20,18 @@ In this table, we began to understand the general distribution of successful (83
 
 We then plotted the pivot table and created a line chart to get a better view of the data. In the below graph, it is clear that the most successful theater campaigns were launched in May and that October had an almost 1-1 ratio of successful-failed campaigns. Additionally, the number of canceled campaigns was low regardless of the month.
 
-![Theater_Outcomes_vs_Launch.png](Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch.png](Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 In order to conduct analysis based on fundraising Goals, a chart counting the success / failure / cancellation of the theater campaigns was created. Additionally, we calculated the percent of successful / failed / canceled campaigns to better understand the chance of success based on the dollar range of the campaign goal.
 
-![Fundraising_Goal_Chart.png](/Users/michalmichael/Documents/DA BootCamp/Excel/Module 1/Kickstarter Challenge/Fundraising_Goal_Chart.png) 
+![Fundraising_Goal_Chart.png](ExplanatoryCharts/Fundraising_Goal_Chart.png) 
 
 By looking at the percentage of successful campaigns, it is clear that campaigns under 5,000 are at least 70% likely to suceed.
 
 Similarly to the launch date protocol, we then plotted the table and created a line chart to get a better view of the data. In the below chart, we can see that there are two ranges for success and two ranges for failure. It seems as though campaignes with goals under 5,000 or from 35,000-45,000 succeed at a rate of 66% and above. It also seems as though campaigns with a goal above 50,000 and between 25,000-35,000 are more likely to fail at a rate of at least 70% and above. 
 
-![Outcomes_vs_Goals.png](/Users/michalmichael/Documents/DA BootCamp/Excel/Module 1/Kickstarter Challenge/Resources/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals.png](Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 One challenge that I encountered was structuing the "Countif" statements corrects in the analysis based on goals section. I wasnted to structure the formula so I could drag it across the "Number Successful", "Number Failed", and "Number Canceled" columns as well as down all of the goal ranges while changing as little as possible. 
